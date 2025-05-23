@@ -1,0 +1,20 @@
+1;Ahmad Hafiz;0123456789;ahmadhafiz@gmail.com;true;Proton;Saga;WSS7183;Sedan;Deep Wash
+2;Nur Aisyah;0987654321;nuraisyah@gmail.com;false;Perodua;Myvi;JND4592;Hatchback;Normal Wash
+3;Mohd Faizal;0111222333;mohdfaizal@gmail.com;true;Toyota;Hilux;PDL8350;Pickup Truck;Wash & Polish
+4;Siti Khadijah;0198765432;sitikhadijah@gmail.com;false;Honda;HR-V;WRF1298;SUV;Interior
+5;Amirul Hakim;0166667777;amirulhakim@gmail.com;true;BMW;5 Series;TMG2741;Sedan;Exterior
+6;Farah Izzati;0178889999;farahizzati@gmail.com;true;Nissan;X-Trail;KPV5937;SUV;Wash & Polish
+7;Zulhilmi Zulkifli;0122345678;zulzulkifli@gmail.com;false;Mazda;CX-30;LND8762;SUV;Deep Wash
+8;Nurul Ain;0155556666;nurulain@gmail.com;true;Mercedes-Benz;A-Class;BWR6450;Hatchback;Normal Wash
+9;Hafizuddin Ismail;0189990000;hafizuddinismail@gmail.com;false;Hyundai;Santa Fe;CXV9217;SUV;Interior
+10;Siti Fatimah;0111112222;sitifatimah@gmail.com;true;Kia;Picanto;QPS3476;Hatchback;Exterior
+11;Muhammad Firdaus;0133334444;firdausmohammad@gmail.com;false;Tesla;Model S;VLK2043;Sedan;Wash & Polish
+12;Aina Nabila;0145556666;ainanabila@gmail.com;true;Volkswagen;Passat;YHP5391;Sedan;Deep Wash
+13;Syahmi Hafeez;0177778888;syahmihafeez@gmail.com;true;Volvo;XC60;MTD8472;SUV;Normal Wash
+14;Nur Farhana;0191113333;nurfarhana@gmail.com;false;Chevrolet;Captiva;GRZ6195;SUV;Interior
+15;Ismail Nordin;0161119999;ismailnordin@gmail.com;true;Subaru;XV;WPF3428;SUV;Exterior
+16;Afiqah Latifah;0120005555;afiqahlatifah@gmail.com;false;Mitsubishi;Outlander;QZL1783;SUV;Wash & Polish
+17;Zul Azri;0114448888;zulazri@gmail.com;true;Lexus;ES250;ZVX4392;Sedan;Normal Wash
+18;Yasmin Hana;0185554444;yasminhana@gmail.com;false;Jeep;Compass;TNP7284;SUV;Deep Wash
+19;Irfan Zakaria;0192224444;irfanzakaria@gmail.com;true;Land Rover;Discovery;KLD5396;SUV;Interior
+20;Nurul Huda;0173331111;nurulhuda@gmail.com;false;Porsche;Cayenne;WGM6471;SUV;Exterior
